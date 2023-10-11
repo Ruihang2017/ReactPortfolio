@@ -6,6 +6,7 @@ import travelAPPImage from '../assets/image/Screenshot2.png';
 import toDoListImage from '../assets/image/to-DoList.png';
 import recipeFinder from '../assets/image/recipeFinder.webp';
 import quizApplicationImage from '../assets/image/quizApplication.avif';
+// import sampleResume from '../assets/rec/resume-sample.pdf';
 
 
 function Mainbody(){
@@ -107,7 +108,7 @@ function Mainbody(){
                     </div>
                     <div className="itemContent" id="resumeItemContent">
                         <div>
-                            <strong><a href="./assets/rec/resume-sample.pdf"> Sample Resume</a></strong>
+                            <strong><a href="src\rec\resume-sample.pdf"> Sample Resume</a></strong>
                         </div>
                     </div>
                 </article>
