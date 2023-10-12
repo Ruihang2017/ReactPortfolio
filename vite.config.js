@@ -11,5 +11,5 @@ export default defineConfig({
 		port,
 		open: true,
 	},
-	base: "./"
+	base: "./dist"
 });
